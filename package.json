@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "three": "^0.156.1",
+    "three.meshline": "^1.4.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}

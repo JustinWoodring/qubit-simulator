@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    margin:0px;
+    padding:0px;
+    font-family: "Roboto";
+}
+
+.label {
+    font-family: sans-serif;
+    color:white;
+    font-size: 1.5em;
+    padding: 2px;
+    background: #00000055;
+    border-radius: .1em;
+}
+
+.label-psi {
+    font-family: sans-serif;
+    color:white;
+    font-size: 1em;
+    padding: 2px;
+    border-radius: .1em;
+    z-index: 100000;
+}
+
+.attribution {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding:1em;
+    color:white;
+    z-index: 1000000000000000000;
+}
+
+.attribution a,
+.attribution a:visited{
+    color: white;
+    cursor: pointer;
+}
